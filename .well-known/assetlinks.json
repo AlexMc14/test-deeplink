@@ -1,12 +1,1 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.brooklynfitzone.app",
-      "sha256_cert_fingerprints": [
-        "B5:CE:BB:99:00:7C:73:5A:68:63:4B:76:E3:71:CE:8A:1B:C7:A2:90:56:3C:F8:40:9F:2D:27:4A:96:02:36:DD"
-      ]
-    }
-  }
-]
+
